@@ -12,7 +12,7 @@ This code example has a 3-project structure: CM33 Secure, CM33 Non-Secure, and C
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-psoc-edge-epc4-tfm-attestation)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDIwOTMiLCJTcGVjIE51bWJlciI6IjAwMi00MjA5MyIsIkRvYyBUaXRsZSI6IlBTT0MmdHJhZGU7IEVkZ2UgTUNVOiBURi1NIGJhc2VkIEluaXRpYWwgQXR0ZXN0YXRpb24gYXBwbGljYXRpb24gLSBFUEM0IiwicmlkIjoidGVqYXMga2FkZ2FvbmthciIsIkRvYyB2ZXJzaW9uIjoiMi4wLjAiLCJEb2MgTGFuZ3VhZ2UiOiJFbmdsaXNoIiwiRG9jIERpdmlzaW9uIjoiTUNEIiwiRG9jIEJVIjoiSUNXIiwiRG9jIEZhbWlseSI6IlBTT0MifQ==)
+[Provide feedback on this code example.](https://yourvoice.infineon.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDIwOTMiLCJTcGVjIE51bWJlciI6IjAwMi00MjA5MyIsIkRvYyBUaXRsZSI6IlBTT0MmdHJhZGU7IEVkZ2UgTUNVOiBURi1NIGJhc2VkIEluaXRpYWwgQXR0ZXN0YXRpb24gYXBwbGljYXRpb24gLSBFUEM0IiwicmlkIjoidGVqYXMua2FkZ2FvbmthckBpbmZpbmVvbi5jb20iLCJEb2MgdmVyc2lvbiI6IjIuMS4wIiwiRG9jIExhbmd1YWdlIjoiRW5nbGlzaCIsIkRvYyBEaXZpc2lvbiI6Ik1DRCIsIkRvYyBCVSI6IklDVyIsIkRvYyBGYW1pbHkiOiJQU09DIn0=)
 
 See the [Design and implementation](docs/design_and_implementation.md) for the functional description of this code example.
 
@@ -154,6 +154,7 @@ Document title: *CE242093* - *PSOC&trade; Edge MCU: TF-M based Initial Attestati
  ------- | ---------------------
  1.x.0   | New code example <br> Early access release
  2.0.0   | GitHub release
+ 2.1.0   | Update PPC configurtaion
 <br>
 
 All referenced product or service names and trademarks are the property of their respective owners.
